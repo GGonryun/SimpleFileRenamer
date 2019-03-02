@@ -14,3 +14,18 @@ File type to rename
 ```
 
 This will convert all files located at the specified path from .txt to .md.
+
+## References used:
+
+#### How do you open a file?
+https://docs.microsoft.com/en-us/dotnet/api/system.io.file.open?view=netframework-4.7.2
+#### How do you change a files extension?
+https://docs.microsoft.com/en-us/dotnet/api/system.io.path.changeextension?view=netframework-4.7.2
+#### How do you seperate the file path from it's extension?
+https://docs.microsoft.com/en-us/dotnet/api/system.io.path.getfilenamewithoutextension?view=netframework-4.7.2
+#### How can you grab all the files in a directory?
+https://docs.microsoft.com/en-us/dotnet/api/system.io.fileinfo.directory?view=netframework-4.7.2
+#### How do you combine file paths?
+https://docs.microsoft.com/en-us/dotnet/api/system.io.path.combine?view=netframework-4.7.2
+#### How do you create a release build?
+https://docs.microsoft.com/en-us/cpp/build/reference/how-to-create-a-release-build?view=vs-2017
